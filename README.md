@@ -1,4 +1,4 @@
-# practic_firebase
+# Flutter with Firebase
 
 A new Flutter project.
 
